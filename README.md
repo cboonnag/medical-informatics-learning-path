@@ -1,5 +1,5 @@
 # Medical-informatics-learning-path
-Path to a free self-taught education in Medical Informatics
+Path to a free self-taught education in Medical Informatics (Keng is here)
 
 ## Mathematics
 - [Mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning)
