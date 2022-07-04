@@ -16,5 +16,5 @@ Interesting Youtube channels
 
 
 ## AI in Healthcare Bootcamp
-- [MONAI Bootcamp 2021](https://www.youtube.com/playlist?list=PLtoSVSQ2XzyCobzE6NvwjNpITsQyPUtfs)
+- [MONAI Bootcamp 2021](https://www.youtube.com/playlist?list=PLtoSVSQ2XzyCobzE6NvwjNpITsQyPUtfs) - [GitHub/MONAI](https://github.com/Project-MONAI/MONAI)
 
